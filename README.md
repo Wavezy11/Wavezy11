@@ -1,33 +1,33 @@
-👋 Hi, I’m Wavezy11
-🚀 Over mij
+👋 **Hi, I’m Wavezy11**  
+🚀 **About Me**  
 
-Ik ben een fullstack developer met een passie voor het bouwen van moderne en gebruiksvriendelijke webapplicaties. Mijn focus ligt op het combineren van creatieve ontwerpen en robuuste code om oplossingen te leveren die werken én indruk maken.
-👀 Interessegebieden
+I’m a full-stack developer with a passion for creating modern, user-friendly web applications. My expertise lies in blending creative design with robust code to deliver solutions that are both functional and impressive.  
 
-    🌐 Front-end: Responsive ontwerpen, animaties en intuïtieve UI/UX
-    ⚙️ Back-end: Databases, API-integraties en efficiënte server-side oplossingen
-    🧩 Projecten: Webapplicaties, interactieve technologie en educatieve tools
+👀 **Areas of Interest**  
 
-🌱 Huidige ontwikkelingen
+- 🌐 **Front-end:** Responsive designs, animations, and intuitive UI/UX  
+- ⚙️ **Back-end:** Databases, API integrations, and efficient server-side solutions  
+- 🧩 **Projects:** Web applications, interactive technology, and educational tools  
 
-Momenteel ben ik bezig met:
+🌱 **Current Focus**  
 
-    Het verdiepen in Laravel en React
-    Het verbeteren van mijn kennis over 2FA-beveiliging en moderne CSS-technieken
-    Het ontwikkelen van VR-toepassingen voor educatieve doeleinden
+I’m currently working on:  
 
-💞️ Samenwerkingen
+- Deepening my knowledge of **Laravel** and **React**  
+- Enhancing my understanding of **2FA security** and modern CSS techniques  
+- Developing **VR applications** for educational purposes  
 
-Ik sta open voor:
+💞️ **Collaborations**  
 
-    Projecten in de educatieve of technologie-sector
-    Open-source bijdragen aan innovatieve tools
-    Samenwerking met designers en ontwikkelaars om nieuwe ideeën tot leven te brengen
+I’m open to:  
 
-📫 Contact
+- Projects in the **education** or **technology** sectors  
+- Contributing to open-source projects for innovative tools  
+- Collaborating with designers and developers to bring new ideas to life  
 
-Je kunt me bereiken via:
+📫 **Get in Touch**  
 
-    Email: [jouw-email@example.com]
-    LinkedIn: [jouw-linkedin-profiel]
-    Portfolio: [link naar jouw portfolio]
+You can reach me via:  
+
+- **Email:** [Mohammed5049@protonmail.com]  
+- **Portfolio:** [https://www.farhanfarah.nl]  
